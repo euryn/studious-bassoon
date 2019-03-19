@@ -2,7 +2,6 @@
 My first try.
 <a href="https://www.humanatic.com/" target="_blank">make money here</a>
 
-
 <a href="#footer">Go to the bottom</a>
 
 <img src="https://images.unsplash.com/photo-1456081101716-74e616ab23d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80" alt="Glasses looking at a parahraph">
