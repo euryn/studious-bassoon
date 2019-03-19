@@ -11,7 +11,10 @@ My first try.
 <main>
   <p> Here I will teach you some useful vocabulary for you to practice in the daily basis.You will find this very educational</p>
 
- <p>Vocabulary represents one of most important skills necessary for teaching and learning a foreign language. It is the basis for the       development of all the other skills: reading comprehension, listening comprehension, speaking, writing, spelling and pronunciation.</p>
+  <p>Vocabulary represents one of most important skills necessary for teaching and learning a foreign language. It is the basis for the       development of all the other skills: reading comprehension, listening comprehension, speaking, writing, spelling and pronunciation.</p>
+  
+  <p>In this case I will give you a website for you to check the vocabulary<a target="_blank" href="https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/"</a>
+  </p>
 </main>
 
 <footer id="footer">Copyright New English World</footer>
