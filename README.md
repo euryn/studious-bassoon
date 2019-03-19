@@ -1,6 +1,6 @@
 # studious-bassoon
 My first try.
-<a href="https://www.humanatic.com/">make money here</a>
+<a href="https://www.humanatic.com/"target="_blank">make money here</a>
 
 
 <a href="#footer">Go to the bottom</a>
