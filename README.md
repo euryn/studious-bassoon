@@ -4,7 +4,7 @@ My first try.
 
 <a href="#footer">Go to the bottom</a>
 
-<img src="https://images.unsplash.com/photo-1456081101716-74e616ab23d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80" alt="Glasses looking at a parahraph">
+<a href="#"><img src="https://images.unsplash.com/photo-1456081101716-74e616ab23d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80" alt="Glasses looking at a parahraph"></a>
 
 <h1>Words you do not learn in a institute</h1>
 
@@ -13,7 +13,7 @@ My first try.
 
   <p>Vocabulary represents one of most important skills necessary for teaching and learning a foreign language. It is the basis for the       development of all the other skills: reading comprehension, listening comprehension, speaking, writing, spelling and pronunciation.</p>
   
-  <p>In this case I will give you a website for you to check the vocabulary<a target="_blank" href="https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/"> more vocabulary</a>
+  <p>In this case I will give you a website for you to check the vocabulary<a target="_blank" href="https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/"> more vocabulary.</a>
   </p>
 </main>
 
