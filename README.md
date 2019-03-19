@@ -13,7 +13,7 @@ My first try.
 
   <p>Vocabulary represents one of most important skills necessary for teaching and learning a foreign language. It is the basis for the       development of all the other skills: reading comprehension, listening comprehension, speaking, writing, spelling and pronunciation.</p>
   
-  <p>In this case I will give you a website for you to check the vocabulary<a target="_blank" href="https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/">more vocabulary</a>
+  <p>In this case I will give you a website for you to check the vocabulary<a target="_blank" href="https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/"> more vocabulary</a>
   </p>
 </main>
 
