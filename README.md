@@ -15,6 +15,13 @@ My first try.
   
   <p>In this case I will give you a website for you to check the vocabulary<a target="_blank" href="https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/"> more vocabulary.</a>
   </p>
+ <h1>Things to practice:</h1>
+ 
+  <ul>
+    <li>Listening</li>
+    <li>Speaking</li>
+    <li>Reading</li>
+  </ul>
 </main>
 
 <footer id="footer">Copyright New English World</footer>
