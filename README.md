@@ -22,6 +22,14 @@ My first try.
     <li>Speaking</li>
     <li>Reading</li>
   </ul>
+  <p>The steps to follow in order to practice<p>
+  <ol>
+  <li>Wake up repeating this twice</li>
+  <li>Try to find a video on youtube with the vocabulary as a title</li>
+  <li>Imagine conversation on your mind with these new words</li>
+  </ol>
+    
+  
 </main>
 
 <footer id="footer">Copyright New English World</footer>
