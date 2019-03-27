@@ -1,5 +1,7 @@
 # studious-bassoon
-My first try.
+My first try
+<html> 
+  
 <a href="https://www.humanatic.com/" target="_blank">make money here</a>
 
 <a href="#footer">Go to the bottom</a>
@@ -29,8 +31,10 @@ My first try.
   <li>Imagine conversation on your mind with these new words</li>
   </ol>
     
-<input type="text">
+<input type="text" placeholder="New English Word">
 
 </main>
 
 <footer id="footer">Copyright New English World</footer>
+
+</html>
