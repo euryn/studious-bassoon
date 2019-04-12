@@ -1,9 +1,31 @@
-# studious-bassoon
-My first try
 <!DOCTYPE html>
 
 
 <html> 
+
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+<style>
+
+.red-text {
+color: blue;
+}
+
+h1 {
+	font-size: 40px;
+}	
+
+p {
+	font-family: comic sans ms;
+
+
+}
+
+h2 {
+	font-family: lobster;
+}
+
+</style>
 
 <head>
 
@@ -14,7 +36,7 @@ My first try
 <div>
 <a href="https://www.google.com/adsense/start/#/?modal_active=none"><img src="https://images.unsplash.com/photo-1456081101716-74e616ab23d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80" alt="Glasses looking at a parahraph"></a>
 </div> 
-<h1 style="color: blue;">Words you do not learn in a institute</h1>
+<h1 class="red-text">Words you do not learn in a institute</h1>
 
 <a href="#footer">Go to the bottom</a>
 
@@ -32,7 +54,7 @@ My first try
   </p>
  </body> 
 </div>
- <h1>Things to practice:</h1>
+ <h2>Things to practice:</h2>
  
   <ul>
     <li>Listening</li>
@@ -86,3 +108,4 @@ My first try
 <footer id="footer">Copyright New English World</footer>
 
 </html>
+
