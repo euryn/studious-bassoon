@@ -1,28 +1,11 @@
-<!DOCTYPE html>
-
-
-<html> 
-
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-
-<style>
-
-.red-text {
-color: blue;
+.smaller-image {
+  width: 400px;
 }
 
-h1 {
-	font-size: 40px;
-}	
-
-p {
-	font-family: comic sans ms;
-
-
-}
-
-h2 {
-	font-family: lobster;
+.thin-blue-border {
+  border-color: blue;
+  border-width: 5px;
+  border-style: solid;
 }
 
 </style>
@@ -34,7 +17,7 @@ h2 {
 </head>
 
 <div>
-<a href="https://www.google.com/adsense/start/#/?modal_active=none"><img src="https://images.unsplash.com/photo-1456081101716-74e616ab23d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80" alt="Glasses looking at a parahraph"></a>
+<a href="https://www.google.com/adsense/start/#/?modal_active=none"><img class="smaller-image class= thin-blue-border" src="https://images.unsplash.com/photo-1456081101716-74e616ab23d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80" alt="Glasses looking at a parahraph"></a>
 </div> 
 <h1 class="red-text">Words you do not learn in a institute</h1>
 
@@ -107,5 +90,5 @@ h2 {
 
 <footer id="footer">Copyright New English World</footer>
 
-</html>
+</html>	
 
