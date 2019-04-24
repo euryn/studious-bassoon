@@ -7,16 +7,26 @@
 
 <style>
 
-.red-text {
+body {
+	background: white;
+}
+
+[type='checkbox'] {
+	margin: 1px 0px 1px 0px;
+}
+
+.blue-text {
 color: blue;
 }
 
 h1 {
 	font-size: 40px;
+	text-align: center;
 }	
 
 p {
 	font-family: comic sans ms;
+	text-align: justify;
 
 
 }
@@ -30,6 +40,8 @@ h2 {
   width: 300px;
 }
 
+
+
 .thin-blue-border {
   border-color: blue;
   border-width: 5px;
@@ -37,7 +49,16 @@ h2 {
   border-style: solid;
 }
 
+.gold-background{
+	background-color: gold;
+}
+
+#paronama-photo {
+	resize: 5px;
+}
+
 </style>
+
 
 <head>
 
@@ -48,7 +69,7 @@ h2 {
 <div>
 <a href="https://www.google.com/adsense/start/#/?modal_active=none"><img class="smaller-image thin-blue-border"src="https://images.unsplash.com/photo-1456081101716-74e616ab23d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80" alt="Glasses looking at a parahraph"></a>
 </div> 
-<h1 class="red-text">Words you do not learn in a institute</h1>
+<h1 class="blue-text">Words you do not learn in a institute</h1>
 
 <a href="#footer">Go to the bottom</a>
 
@@ -117,8 +138,27 @@ h2 {
 
 </main>
 
-<footer id="footer">Copyright New English World</footer>
+<div>
+<h1 class="blue-text">Select the correct option according to the picture</h1>
+
+<p>Which one is it?</p>
+
+<span id="paranoma-photo" ><img class="smaller-image" src="https://i.imgur.com/jV6vkjF.jpg" title="source: imgur.com" /></span>
+</div>
+
+<label for="Bay">
+<input  id="Bay" type="checkbox" name="4 skills">Bay 
+</label>
+
+<label for="Lake">
+<input  id="Lake" type="checkbox" name="4 skills">Lake 
+</label>
+
+<label for="Stream">
+<input  id="Stream" type="checkbox" name="4 skills">Stream
+</label>
+<button type="submit">Submit</button>
+
+<footer  class="gold-background" id="footer">Copyright New English World</footer>
 
 </html>
-
-
