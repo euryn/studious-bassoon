@@ -8,7 +8,7 @@
 <style>
 
 body {
-	background: white;
+	 background: url("https://i.imgur.com/MJAkxbh.png")
 }
 
 [type='checkbox'] {
@@ -49,12 +49,55 @@ h2 {
   border-style: solid;
 }
 
-.gold-background{
-	background-color: gold;
+.teal-background{
+	background-color: #09A7A1;
 }
 
 #paronama-photo {
 	resize: 5px;
+}
+
+#picture1 {
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+}
+
+#footer {
+	opacity: 0.7;
+}
+
+ol {
+	line-height: 25px;
+}
+
+ul {
+	line-height: 25px;
+}
+
+a:hover {
+	color: red;
+}
+
+#makemoremoney {
+	float: right;
+
+}
+
+img:hover {
+   transform: scale(1.1);
+}
+
+button:hover {
+	transform: scale(1.1);
+	animation-name: background-color;
+	animation-duration: 5s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes background-color {
+	100% {
+		background-color: blue;
+	}
 }
 
 </style>
@@ -67,21 +110,21 @@ h2 {
 </head>
 
 <div>
-<a href="https://www.google.com/adsense/start/#/?modal_active=none"><img class="smaller-image thin-blue-border"src="https://images.unsplash.com/photo-1456081101716-74e616ab23d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80" alt="Glasses looking at a parahraph"></a>
+<a href="https://www.google.com/adsense/start/#/?modal_active=none"><img id="picture1" class="smaller-image thin-blue-border"src="https://images.unsplash.com/photo-1456081101716-74e616ab23d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80" alt="Glasses looking at a parahraph"></a>
 </div> 
-<h1 class="blue-text">Words you do not learn in a institute</h1>
+<h1 class="blue-text"><u>Words you do not learn in a institute</u></h1>
 
 <a href="#footer">Go to the bottom</a>
 
-<a href="https://www.humanatic.com/"target="_blank">make money here</a>
+<a  id="makemoremoney" href="https://www.humanatic.com/"target="_blank">make money here</a>
 
 <main>
 <div>
 
 <body>
-  <p> Here I will teach you some useful vocabulary for you to practice in the daily basis.You will find this very educational</p>
+  <p><em>Here I will teach you some useful vocabulary for you to practice in the daily basis.You will find this very educational</em>.</p>
 
-  <p>Vocabulary represents one of most important skills necessary for teaching and learning a foreign language. It is the basis for the       development of all the other skills: reading comprehension, listening comprehension, speaking, writing, spelling and pronunciation.</p>
+  <p><em>Vocabulary represents one of most important skills necessary for teaching and learning a foreign language. It is the basis for the       development of all the other skills: reading comprehension, listening comprehension, speaking, writing, spelling and pronunciation</em>.</p>
   
   <p>In this case I will give you a website for you to check the vocabulary<a target="_blank" href="https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/"> more vocabulary.</a>
   </p>
@@ -139,11 +182,11 @@ h2 {
 </main>
 
 <div>
-<h1 class="blue-text">Select the correct option according to the picture</h1>
+<h1 class="blue-text"><u>Select the correct option according to the picture</u></h1>
 
 <p>Which one is it?</p>
 
-<span id="paranoma-photo" ><img class="smaller-image" src="https://i.imgur.com/jV6vkjF.jpg" title="source: imgur.com" /></span>
+<span id="paranoma-photo" ><img  id="picture1"  class="smaller-image" src="https://i.imgur.com/jV6vkjF.jpg" title="source: imgur.com" /></span>
 </div>
 
 <label for="Bay">
@@ -159,6 +202,6 @@ h2 {
 </label>
 <button type="submit">Submit</button>
 
-<footer  class="gold-background" id="footer">Copyright New English World</footer>
+<footer  class="teal-background" id="footer">Copyright New English World</footer>
 
 </html>
